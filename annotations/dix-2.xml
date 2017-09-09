@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wikiart</folder>
+	<filename>dix-2.jpg</filename>
+	<path>/sb-personal/mafc-100/wikiart/dix-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1007</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>220</ymin>
+			<xmax>453</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

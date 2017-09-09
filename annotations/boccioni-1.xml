@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wikiart</folder>
+	<filename>boccioni-1.jpg</filename>
+	<path>/sb-personal/mafc-100/wikiart/boccioni-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>157</ymin>
+			<xmax>275</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

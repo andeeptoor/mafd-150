@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wikiart</folder>
+	<filename>derain-2.jpg</filename>
+	<path>/sb-personal/mafc-100/wikiart/derain-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>411</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>75</ymin>
+			<xmax>288</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

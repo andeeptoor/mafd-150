@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wikiart</folder>
+	<filename>gogh-1.jpg</filename>
+	<path>/sb-personal/mafc-100/wikiart/gogh-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>130</ymin>
+			<xmax>209</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

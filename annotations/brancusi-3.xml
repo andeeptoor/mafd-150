@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>brancusi-3.jpg</filename>
+	<path>/sb-personal/mafd-150/images/brancusi-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>881</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>152</ymin>
+			<xmax>1228</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>

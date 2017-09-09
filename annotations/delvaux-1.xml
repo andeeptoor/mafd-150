@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wikiart</folder>
+	<filename>delvaux-1.jpg</filename>
+	<path>/sb-personal/mafc-100/wikiart/delvaux-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1006</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>763</ymin>
+			<xmax>343</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+</annotation>
