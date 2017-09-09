@@ -8,6 +8,6 @@ The data was labeled with https://github.com/tzutalin/labelImg/
 	* conda install lxml
 	* pip install labelImg
 
-## Dependences
+## Dependencies
 	* pip install --upgrade google-cloud-vision
 	* pip install boost, boost-python, dlib
